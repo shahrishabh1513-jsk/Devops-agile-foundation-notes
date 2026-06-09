@@ -1,6 +1,4 @@
-﻿# Devops-agile-foundation-notes
-
-# 🚀 DevOps & Agile Foundation Notes
+﻿# 🚀 DevOps & Agile Foundation Notes
 
 > Master the fundamentals of **DevOps** and **Agile** with clear, structured, and beginner-friendly notes.
 
